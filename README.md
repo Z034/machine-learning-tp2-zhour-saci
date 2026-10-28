@@ -1,6 +1,6 @@
 # LAB 2 : Standrdized PCA
 
-** Student ** : SACI Zhour - G2
+**Student** : SACI Zhour - G2
 
 ## Part A :
 We build PCA by hand: standardize the grades, compute the covariance matrix, take its eigenvalues and eigenvectors, keep the top 2, and project the students onto them.
